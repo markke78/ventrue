@@ -1,0 +1,28 @@
+{
+  "files": {
+    "main.css": "/venture/static/css/main.bab82aee.chunk.css",
+    "main.js": "/venture/static/js/main.d5058b0e.chunk.js",
+    "main.js.map": "/venture/static/js/main.d5058b0e.chunk.js.map",
+    "runtime-main.js": "/venture/static/js/runtime-main.a5e2347a.js",
+    "runtime-main.js.map": "/venture/static/js/runtime-main.a5e2347a.js.map",
+    "static/css/2.de424728.chunk.css": "/venture/static/css/2.de424728.chunk.css",
+    "static/js/2.3e4ce632.chunk.js": "/venture/static/js/2.3e4ce632.chunk.js",
+    "static/js/2.3e4ce632.chunk.js.map": "/venture/static/js/2.3e4ce632.chunk.js.map",
+    "index.html": "/venture/index.html",
+    "precache-manifest.04c47833bdc1e557cfec91f39595b419.js": "/venture/precache-manifest.04c47833bdc1e557cfec91f39595b419.js",
+    "service-worker.js": "/venture/service-worker.js",
+    "static/css/2.de424728.chunk.css.map": "/venture/static/css/2.de424728.chunk.css.map",
+    "static/css/main.bab82aee.chunk.css.map": "/venture/static/css/main.bab82aee.chunk.css.map",
+    "static/js/2.3e4ce632.chunk.js.LICENSE.txt": "/venture/static/js/2.3e4ce632.chunk.js.LICENSE.txt",
+    "static/media/about.jfif": "/venture/static/media/about.8131030d.jfif",
+    "static/media/book.png": "/venture/static/media/book.d77715c3.png",
+    "static/media/App.css": "/venture/static/media/mountains2.8d789dfe.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.a5e2347a.js",
+    "static/css/2.de424728.chunk.css",
+    "static/js/2.3e4ce632.chunk.js",
+    "static/css/main.bab82aee.chunk.css",
+    "static/js/main.d5058b0e.chunk.js"
+  ]
+}
