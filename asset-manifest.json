@@ -1,30 +1,28 @@
 {
   "files": {
-    "main.css": "/venture/static/css/main.923bbe2e.chunk.css",
-    "main.js": "/venture/static/js/main.bced4af4.chunk.js",
-    "main.js.map": "/venture/static/js/main.bced4af4.chunk.js.map",
+    "main.css": "/venture/static/css/main.d6349433.chunk.css",
+    "main.js": "/venture/static/js/main.5cea0143.chunk.js",
+    "main.js.map": "/venture/static/js/main.5cea0143.chunk.js.map",
     "runtime-main.js": "/venture/static/js/runtime-main.a5e2347a.js",
     "runtime-main.js.map": "/venture/static/js/runtime-main.a5e2347a.js.map",
     "static/css/2.de424728.chunk.css": "/venture/static/css/2.de424728.chunk.css",
-    "static/js/2.cec69d4c.chunk.js": "/venture/static/js/2.cec69d4c.chunk.js",
-    "static/js/2.cec69d4c.chunk.js.map": "/venture/static/js/2.cec69d4c.chunk.js.map",
+    "static/js/2.2fae8482.chunk.js": "/venture/static/js/2.2fae8482.chunk.js",
+    "static/js/2.2fae8482.chunk.js.map": "/venture/static/js/2.2fae8482.chunk.js.map",
     "index.html": "/venture/index.html",
-    "precache-manifest.5a86d713ecba9d77f579c37a1334b230.js": "/venture/precache-manifest.5a86d713ecba9d77f579c37a1334b230.js",
+    "precache-manifest.ef6f9db17dcbecebe17bf046c79d53e5.js": "/venture/precache-manifest.ef6f9db17dcbecebe17bf046c79d53e5.js",
     "service-worker.js": "/venture/service-worker.js",
     "static/css/2.de424728.chunk.css.map": "/venture/static/css/2.de424728.chunk.css.map",
-    "static/css/main.923bbe2e.chunk.css.map": "/venture/static/css/main.923bbe2e.chunk.css.map",
-    "static/js/2.cec69d4c.chunk.js.LICENSE.txt": "/venture/static/js/2.cec69d4c.chunk.js.LICENSE.txt",
+    "static/css/main.d6349433.chunk.css.map": "/venture/static/css/main.d6349433.chunk.css.map",
+    "static/js/2.2fae8482.chunk.js.LICENSE.txt": "/venture/static/js/2.2fae8482.chunk.js.LICENSE.txt",
+    "static/media/App.css": "/venture/static/media/main.0a7fe5e8.jpg",
     "static/media/about.jfif": "/venture/static/media/about.8131030d.jfif",
-    "static/media/book.png": "/venture/static/media/book.d77715c3.png",
-    "static/media/hand-shake.jpg": "/venture/static/media/hand-shake.b9a95412.jpg",
-    "static/media/logo2.png": "/venture/static/media/logo2.b34be7c7.png",
-    "static/media/App.css": "/venture/static/media/main.0a7fe5e8.jpg"
+    "static/media/logo2.png": "/venture/static/media/logo2.b34be7c7.png"
   },
   "entrypoints": [
     "static/js/runtime-main.a5e2347a.js",
     "static/css/2.de424728.chunk.css",
-    "static/js/2.cec69d4c.chunk.js",
-    "static/css/main.923bbe2e.chunk.css",
-    "static/js/main.bced4af4.chunk.js"
+    "static/js/2.2fae8482.chunk.js",
+    "static/css/main.d6349433.chunk.css",
+    "static/js/main.5cea0143.chunk.js"
   ]
 }
