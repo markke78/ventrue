@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/venture/static/css/main.d6349433.chunk.css",
+    "main.css": "/venture/static/css/main.e3eef141.chunk.css",
     "main.js": "/venture/static/js/main.5cea0143.chunk.js",
     "main.js.map": "/venture/static/js/main.5cea0143.chunk.js.map",
     "runtime-main.js": "/venture/static/js/runtime-main.a5e2347a.js",
@@ -9,10 +9,10 @@
     "static/js/2.2fae8482.chunk.js": "/venture/static/js/2.2fae8482.chunk.js",
     "static/js/2.2fae8482.chunk.js.map": "/venture/static/js/2.2fae8482.chunk.js.map",
     "index.html": "/venture/index.html",
-    "precache-manifest.ef6f9db17dcbecebe17bf046c79d53e5.js": "/venture/precache-manifest.ef6f9db17dcbecebe17bf046c79d53e5.js",
+    "precache-manifest.4e3c35b232a4516fb962d64423f84338.js": "/venture/precache-manifest.4e3c35b232a4516fb962d64423f84338.js",
     "service-worker.js": "/venture/service-worker.js",
     "static/css/2.de424728.chunk.css.map": "/venture/static/css/2.de424728.chunk.css.map",
-    "static/css/main.d6349433.chunk.css.map": "/venture/static/css/main.d6349433.chunk.css.map",
+    "static/css/main.e3eef141.chunk.css.map": "/venture/static/css/main.e3eef141.chunk.css.map",
     "static/js/2.2fae8482.chunk.js.LICENSE.txt": "/venture/static/js/2.2fae8482.chunk.js.LICENSE.txt",
     "static/media/App.css": "/venture/static/media/main.0a7fe5e8.jpg",
     "static/media/about.jfif": "/venture/static/media/about.8131030d.jfif",
@@ -22,7 +22,7 @@
     "static/js/runtime-main.a5e2347a.js",
     "static/css/2.de424728.chunk.css",
     "static/js/2.2fae8482.chunk.js",
-    "static/css/main.d6349433.chunk.css",
+    "static/css/main.e3eef141.chunk.css",
     "static/js/main.5cea0143.chunk.js"
   ]
 }
