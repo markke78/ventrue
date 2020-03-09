@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "3ed2cd88cd5d4c9562d59c2151316380",
+    "revision": "aa774149296114777fdb423442392ad5",
     "url": "/venture/index.html"
   },
   {
@@ -8,8 +8,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/venture/static/css/2.de424728.chunk.css"
   },
   {
-    "revision": "76a17d98668e776def23",
-    "url": "/venture/static/css/main.e3eef141.chunk.css"
+    "revision": "607489943963c044ecb5",
+    "url": "/venture/static/css/main.b779ea51.chunk.css"
   },
   {
     "revision": "bcce069d11da9ecca0da",
@@ -20,8 +20,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/venture/static/js/2.2fae8482.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "76a17d98668e776def23",
-    "url": "/venture/static/js/main.5cea0143.chunk.js"
+    "revision": "607489943963c044ecb5",
+    "url": "/venture/static/js/main.8b37bc0e.chunk.js"
   },
   {
     "revision": "46d1fd05896efc027f4d",
