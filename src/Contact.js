@@ -74,6 +74,20 @@ const Contact = () => {
                       height="200"
                       alt="Transparent Letter E Icon"
                     />
+                    <br></br>
+                    <br></br>
+                    <br></br>
+                    <div className="mt-10">
+                      <p class="font-weight-bold text-xl text-dark">
+                        You Also Can Cantact Us At:
+                        <br></br>
+                        Our Address: 888 Demo Street, Calgary, AB
+                        <br></br>
+                        Our Phone: (403) 888-8888
+                        <br></br> Our Fax: (403) 888-6688
+                        <br></br> Our Email: email@example.com
+                      </p>
+                    </div>
                   </div>
                 </div>
               </div>
